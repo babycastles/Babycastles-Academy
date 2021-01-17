@@ -4,7 +4,9 @@ Introduction to Audio Synthesis with Machine Learning
 Allan Pichardo
 --------------
 
-[video](https://www.youtube.com/watch?v=MNAgKB-IFS4) on YouTube
+January 17, 2021
+
+[Archived video](https://www.youtube.com/watch?v=MNAgKB-IFS4) on YouTube
 
 [*allanpichardo.com*](https://allanpichardo.com/)
 
