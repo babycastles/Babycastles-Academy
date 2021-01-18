@@ -32,8 +32,12 @@ While we’ve found success as an artist-run space dedicated to games, we’ve a
 - [Stay Safe, Stay Secure: Practical Security for Protesters and Organizers](https://withfriends.co/event/4646862/stay_safe_stay_secure_practical_security_for_protesters_and_organizers) by Ana Valens, David Huerta (Freedom of the Press Foundation), Matt Mitchell (CryptoHarlem) - June 7, 2020
 - [Bamboo Unicorns: Asian-American Game Design](https://withfriends.co/event/4627835/babycastles_academy_bamboo_unicorns_asian_american_game_design) by Charles H. Huang - May 31, 2020
 - [Intro to Godot](https://withfriends.co/event/4604025/babycastles_academy_intro_to_godot) by Francisco Rojo - May 17, 2020
+- [Generative Text in p5.js](https://www.youtube.com/watch?v=QJomHILD4Jw&list=PLJzpMnmDTJIUBNOpzI5qdPJ1cXhITBSq-&index=21) by Hyacinth Ramsay - May 2020
 - [Building a Custom Film Finder with Python](https://withfriends.co/event/4549427/babycastles_academy_building_a_custom_film_finder_with_python) by Drew Katsikas / Vampire Computer People - May 3, 2020
+- [Make a Flatgame in Unity](https://www.youtube.com/watch?v=JqN6zdaJYvc&list=PLJzpMnmDTJIUBNOpzI5qdPJ1cXhITBSq-&index=9) by Lee Tusman - April 19, 2020
 - [Pixel Scene Design: Monster Babe Hangout](https://withfriends.co/event/4502389/babycastles_academy_pixel_scene_design_monster_babe_hangout) by Phoenix - April 5, 2020
+- [Setting Goals](https://www.youtube.com/watch?v=FCOG_rpAVXw&list=PLJzpMnmDTJIUBNOpzI5qdPJ1cXhITBSq-&index=10) by Lauren Gardner, April 2020
+- [Empathic Listening](https://www.youtube.com/watch?v=Ifzy1zCLo_0&list=PLJzpMnmDTJIUBNOpzI5qdPJ1cXhITBSq-&index=11) by Claudia Kenny - March 29, 2020
 - [Learn Hydra](https://withfriends.co/event/1867247/babycastles_academy_learn_hydra_with_zach_krall) - June 23, 2019
 - [Houdini is Easy](https://withfriends.co/event/1724001/houdini_is_easy_babycastles_academy) by Chris Rutledge - May 26, 2019
 - [Livecoding with SuperCollider](https://withfriends.co/event/1561110/livecoding_with_supercollider) by Jessica Garson - May 12, 2019
