@@ -16,7 +16,7 @@ While we’ve found success as an artist-run space dedicated to games, we’ve a
 
 [Recordings of Babycastles Academy workshops on YouTube](https://youtube.com/playlist?list=PLJzpMnmDTJIUBNOpzI5qdPJ1cXhITBSq-)
 
-- [Building 3d Worlds in Blender](3d-worlds-in-blender.md) by Seamus Edson - February 14, 2021
+- [Building 3d Worlds in Blender](workshops/3d-worlds-in-blender.md) by Seamus Edson - February 14, 2021
 - [Introduction to Audio Synthesis](workshops/audio-synthesis.md) with Machine Learning by Allan Pichardo - January 17, 2021
 - [DIY Scene Design and 3d Modeling](https://withfriends.co/event/5501757/babycastles_academy_diy_scene_design_and_3d_modeling) by Daniel Lichtman - November 22, 2020
 - [Email!](https://withfriends.co/event/5168217/babycastles_academy_email) by Char Stiles - November 1, 2020
