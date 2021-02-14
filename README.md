@@ -2,7 +2,7 @@
 
 Lesson plans and notes from our Babycastles Academy public education programs
 
-This repo contains the Babycastles Academy [Manual](manual) for workshop teachers and individual [lesson plans](workshops) for each workshop.
+This repo contains the Babycastles Academy [Manual](manual) for workshop teachers and individual [lesson plans](#workshops) for each workshop.
 
 ### Vision
 
