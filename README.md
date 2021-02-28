@@ -16,6 +16,7 @@ While we’ve found success as an artist-run space dedicated to games, we’ve a
 
 [Recordings of Babycastles Academy workshops on YouTube](https://youtube.com/playlist?list=PLJzpMnmDTJIUBNOpzI5qdPJ1cXhITBSq-)
 
+- [Make Your First Video Game with Pico-8](workshops/first-game-pico8.md) - February 28, 2021
 - [Building 3d Worlds in Blender](workshops/3d-worlds-in-blender.md) by Seamus Edson - February 14, 2021
 - [Introduction to Audio Synthesis](workshops/audio-synthesis.md) with Machine Learning by Allan Pichardo - January 17, 2021
 - [DIY Scene Design and 3d Modeling](https://withfriends.co/event/5501757/babycastles_academy_diy_scene_design_and_3d_modeling) by Daniel Lichtman - November 22, 2020
