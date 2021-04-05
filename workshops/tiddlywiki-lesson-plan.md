@@ -60,7 +60,7 @@ Let's click the plus sign to add a new tiddler to our notebook.
 * Add these Fields
   * `caption` in the `field name` and with `{{$:/language/SideBar/Contents/Caption}}` in the `field value`
   * `list` in the `field name` and with `About Images Text [[Recent Discoveries]]` in the `field value`
-  * `list-befor` in the `field name` and with `$:/core/ui/SideBar/Open`
+  * `list-before` in the `field name` and with `$:/core/ui/SideBar/Open`
 
 Don't worry too much about the technical aspects of the language here. What we are basically doing is adding a new tab to our sidebar called `Contents` and placing it before the open tab. We are also listing a series of tiddlers that we would like to display in a specific order, and then we are also saying making those tiddlers expandable.
 
