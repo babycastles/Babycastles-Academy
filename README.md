@@ -17,6 +17,8 @@ While we’ve found success as an artist-run space dedicated to games, we’ve a
 [Recordings of Babycastles Academy workshops on YouTube](https://youtube.com/playlist?list=PLJzpMnmDTJIUBNOpzI5qdPJ1cXhITBSq-)
 
 - [DOOM Modding](workshops/doom-modding.md) - April 11, 2021
+- [TiddlyWiki: Getting Started with digital gardens, networked thinking and non-linear research](workshops/tiddlywiki-lesson-plan.md) - April 4th, 2021
+>>>>>>> fc3f277ca6fc9de785ad9b33cafa6e1ba127db4a
 - [Being the GameMaster: How To Run Compelling Tabletop Roleplaying Games](workshops/gming-lesson-plan.md) - March 21, 2021  
 - [Make Your First Video Game with Pico-8](workshops/first-game-pico8.md) - February 28, 2021
 - [Building 3d Worlds in Blender](workshops/3d-worlds-in-blender.md) by Seamus Edson - February 14, 2021
