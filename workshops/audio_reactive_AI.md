@@ -2,6 +2,8 @@ Making an Audio-Reactive AI-generated Video: RunwayML and TouchDesigner
 =====================================================
 April 25, 2021
 
+Lia Coleman
+-------------
 [Lia Coleman](https://www.liacoleman.com) is an AI artist and educator. She makes art with AI and teaches others how to do it.
 
 **Sign up for her [AI Artwork Newsletter](https://makeaiart.substack.com/).**
