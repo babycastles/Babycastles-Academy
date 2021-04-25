@@ -36,7 +36,7 @@ No prior experience necessary. To follow along:
 2. Download [TouchDesigner](https://derivative.ca/)
 3. Bring an .mp3 if you want to follow along!
 
-## Schedule: 1.5 - 2 hrs long
+## Schedule:
 
 - Intro, Setup
 - Machine Learning primer, Intro to a Latent Space
