@@ -9,7 +9,7 @@ We will be diving into the [Tiddlywiki framework (TW)](https://tiddlywiki.com/),
 
 ## Prerequisites
 
-Some understanding of basic HTML and CSS is a plus, but not mandatory. TW is a very deep and complex system but luckily we don't need to know how all its innards interact with each other in order to start building our digital garden. Some tricks I've found that help me format tiddlers the way I want to are `<br>` which in HTML forces a line break in text, and `&nbsp;` which is a way of forcing a non-breaking space, which can come in handy in some cases. Later on we will also create a custom `<div>` class, to have more consistent and dynamic video embeds across devices and viewports.
+Some understanding of basic HTML and CSS is a plus, but not mandatory. TW is a very deep and complex system but luckily we don't need to know how all its innards interact with each other in order to start building our digital garden. Some tricks I've found that help me format tiddlers the way I want to are `<br>` which in HTML forces a line break in text, and `&nbsp;` which is a way of forcing a non-breaking space, which can come in handy in some cases. Later on we will also create a custom `<div>` class, to have more consistent and dynamic video embeds across devices and viewports. 
 
 ## Lesson Plan
 
@@ -37,7 +37,7 @@ We'll want to Download Empty from the [Getting Started](https://tiddlywiki.com/#
 
 Give a name (I'm calling mine `My Notebook` for this workshop) and the subtitle `babycastles workshop`.
 
-### Quine
+### Quine 
 
 TiddlyWiki is an unusual example of a practical quine: it is this ability to produce a copy of its own source code that lies at the heart of TiddlyWiki's ability to independently save changes to itself.
 
@@ -47,7 +47,7 @@ It is important to make multiple redundant backups of your html file. The way we
 
 ## Build the Table of Contents
 
-Let's click the plus sign to add a new tiddler to our notebook.
+Let's click the plus sign to add a new tiddler to our notebook. 
 * Title it `TableOfContents`
 * Tag it with `$:/tags/SideBar` to add it to our Sidebar
 * Place this code into the body:<br>
@@ -58,7 +58,7 @@ Let's click the plus sign to add a new tiddler to our notebook.
 ```
 * Make sure the Content Type is set to `text/vnd.tiddlywiki`
 * Add these Fields
-  * `caption` in the `field name` and with `{{$:/language/SideBar/Contents/Caption}}` in the `field value`
+  * `caption` in the `field name` and with `{{$:/language/SideBar/Contents/Caption}}` in the `field value`  
   * `list` in the `field name` and with `About Images Text [[Recent Discoveries]]` in the `field value`
   * `list-before` in the `field name` and with `$:/core/ui/SideBar/Open`
 
