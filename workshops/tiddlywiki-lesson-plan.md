@@ -50,12 +50,14 @@ It is important to make multiple redundant backups of your html file. The way we
 Let's click the plus sign to add a new tiddler to our notebook. 
 * Title it `TableOfContents`
 * Tag it with `$:/tags/SideBar` to add it to our Sidebar
-* Place this code into the body:<br>
+* Place this code into the body:
+
 ```
 <div class="tc-table-of-contents">
 <<toc-selective-expandable 'TableOfContents'>>
 </div>
 ```
+
 * Make sure the Content Type is set to `text/vnd.tiddlywiki`
 * Add these Fields
   * `caption` in the `field name` and with `{{$:/language/SideBar/Contents/Caption}}` in the `field value`  
