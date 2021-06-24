@@ -15,8 +15,8 @@ While we’ve found success as an artist-run space dedicated to games, we’ve a
 ### Workshops
 
 [Recordings of Babycastles Academy workshops on YouTube](https://youtube.com/playlist?list=PLJzpMnmDTJIUBNOpzI5qdPJ1cXhITBSq-)
-
-- [Making Rhythm Games in Unity and Wwise](workshops/rhythm-games.md)
+- [Experimenting with Digital Zine Making in Electric Zine Maker]() - June 13, 2021
+- [Making Rhythm Games in Unity and Wwise](workshops/rhythm-games.md) - May 16, 2021
 - [Making an Audio-Reactive AI-generated Video: RunwayML and TouchDesigner](workshops/audio_reactive_AI.md) - April 25, 2021
 - [DOOM Modding](workshops/doom-modding.md) - April 11, 2021
 - [TiddlyWiki: Getting Started with digital gardens, networked thinking and non-linear research](workshops/tiddlywiki-lesson-plan.md) - April 4th, 2021
