@@ -28,7 +28,7 @@ While we’ve found success as an artist-run space dedicated to games, we’ve a
 - [Email!](https://withfriends.co/event/5168217/babycastles_academy_email) by Char Stiles - November 1, 2020
 - [The Software Blues - Agonies and Ecstasies of Creating Ambitious Artwork](https://withfriends.co/event/4974656/babycastles_academy_the_software_blues_agonies_and_ecstasies_of_creating_ambitious_artwork) by Tyler Etters - September 20, 2020
 - [Strike The Earth: How to Play Dwarf Fortress](https://withfriends.co/event/4830240/strike_the_earth_how_to_play_dwarf_fortress) by Crezno - August 23, 2020
-- [A Friendly Introduction to Writing Proposals and Grants](https://withfriends.co/event/4846572/babycastles_academy_a_friendly_introduction_to_writing_proposals_and_grants) by Lee Tusman - August 16, 2020
+- [A Friendly Introduction to Writing Proposals and Grants](workshops/proposals-and-grants.md) by Lee Tusman - August 16, 2020
 - [Here Be Monsters! Creature Design 101](https://withfriends.co/event/4814771/here_be_monsters_creature_design_101) by Cicada Carpenter - August 9, 2020
 - [Making Your First Website: CSS as a Design Tool](https://withfriends.co/event/4795236/babycastles_academy_making_your_first_website_css_as_a_design_tool) by Stefan Pelikan - August 2, 2020
 - [Making Music with Found Sounds](https://withfriends.co/event/4773503/babycastles_academy_making_music_with_found_sounds) by Hyacinth Ramsay - July 26, 2020
