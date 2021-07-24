@@ -16,3 +16,18 @@ Join Tyler Etters as he shares strategies and tactics for navigating this messy 
 ### [Slides are available here](https://drive.google.com/file/d/1aZYPl845kwM7OhGcTeYcRVSSCFY9mIYb/view?usp=sharing)
 
 ### [Video is available here](https://www.youtube.com/watch?v=mzo5rovx9nE)
+
+## Hack Digest
+
+ - Be inspired by your medium. Not the content.
+ - You can never plant too many seeds.
+ - Write that shit down.
+ - Now is the time to use "that" idea.
+ - Some ideas just suck.
+ - Seek support. Offer support.
+ - Discipline.
+ - Be comfortable. Tend to your space.
+ - Use established processes & techniques.
+ - Know this is not the end, but the beginning.
+ - Unpleasant deadline. :)
+ - Know your deployment pipeline ahead of time.
