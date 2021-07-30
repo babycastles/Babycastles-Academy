@@ -1,7 +1,7 @@
 # The Software Blues
 On Agonies and Ecstasies of Creating Ambitious Artworks
 
-![The Software Blues](/workshops/images/the-software-blues.jpg)
+![The Software Blues](/Babycastles-Academy/workshops/images/the-software-blues.jpg)
 
 Tyler Etters
 @tyleretters
