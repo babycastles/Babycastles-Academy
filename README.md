@@ -55,6 +55,6 @@ While we’ve found success as an artist-run space dedicated to games, we’ve a
 
 ### Support
 
-Babycastles Academy 2020-2021 programming has been supported by a grant from the New York City Department of Cultural Affairs.
+*This program is supported, in part, by public funds from the New York City Department of Cultural Affairs in Partnership with the City Council.
 
 Babycastles Academy is also supported by workshop participants and by the members of Babycastles. For more information on donation or to become a member, visit our [page on withfriends](https://withfriends.co/babycastles).
