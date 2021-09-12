@@ -26,7 +26,7 @@ While we’ve found success as an artist-run space dedicated to games, we’ve a
 - [Introduction to Audio Synthesis](workshops/audio-synthesis.md) with Machine Learning by Allan Pichardo - January 17, 2021
 - [DIY Scene Design and 3d Modeling](https://withfriends.co/event/5501757/babycastles_academy_diy_scene_design_and_3d_modeling) by Daniel Lichtman - November 22, 2020
 - [Email!](https://withfriends.co/event/5168217/babycastles_academy_email) by Char Stiles - November 1, 2020
-- [The Software Blues - Agonies and Ecstasies of Creating Ambitious Artwork](https://withfriends.co/event/4974656/babycastles_academy_the_software_blues_agonies_and_ecstasies_of_creating_ambitious_artwork) by Tyler Etters - September 20, 2020
+- [The Software Blues - Agonies and Ecstasies of Creating Ambitious Artwork](/Babycastles-Academy/workshops/the-software-blues.html) by Tyler Etters - September 20, 2020
 - [Strike The Earth: How to Play Dwarf Fortress](https://withfriends.co/event/4830240/strike_the_earth_how_to_play_dwarf_fortress) by Crezno - August 23, 2020
 - [A Friendly Introduction to Writing Proposals and Grants](workshops/proposals-and-grants.md) by Lee Tusman - August 16, 2020
 - [Here Be Monsters! Creature Design 101](https://withfriends.co/event/4814771/here_be_monsters_creature_design_101) by Cicada Carpenter - August 9, 2020
