@@ -32,3 +32,8 @@ Then in the second part of the workshop we will explore with toy email addresses
 [Slides](https://docs.google.com/presentation/d/18RrI0cX4i7_hB3McEh7z2nrL2SGs32LawmxhrK4-7UE/edit?usp=sharing)
 
 [Email Server](http://box.computerfaith.com/mail)
+
+
+### Support
+
+This program is supported, in part, by public funds from the New York City Department of Cultural Affairs in partnership with the City Council. And by Babycastles members. Thank you.

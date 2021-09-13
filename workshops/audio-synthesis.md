@@ -97,3 +97,7 @@ Student Reflections, Takeaways & Next Steps
 [*Kapre: On-GPU Audio Preprocessing Layers for a Quick Implementation of Deep Neural Network Models with Keras*](https://arxiv.org/abs/1706.05781)
 
 *Thanks to Lauren Gardner and EYEBEAM for past lesson plans*
+
+### Support
+
+This program is supported, in part, by public funds from the New York City Department of Cultural Affairs in partnership with the City Council. And by Babycastles members. Thank you.

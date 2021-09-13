@@ -168,3 +168,7 @@ Once inside the camera's view, hit Shift + (~) to enter camera walk mode. It is 
 In the very top left: Render > Render Image
 
 Once you have a render: Image > Save to export it
+
+### Support
+
+This program is supported, in part, by public funds from the New York City Department of Cultural Affairs in partnership with the City Council. And by Babycastles members. Thank you.

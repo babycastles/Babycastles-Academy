@@ -80,3 +80,8 @@ I usually like to end on some kind of mystery or a big semiclimactic event
 Debrief with your players if you're able to. Ask what worked and what didn't. Make sure people felt okay about what happened, that their characters got enough screen time, that they're cool with the direction of the story, etc.
 
 [Here's the scenario I wrote for this workshop--have fun with it](https://hyacinthnil.itch.io/a-disappearance-in-winterbreach/download/UO9Q2Juz2SZIcKPwwkF2F5FqE_y_9UmY8xjfz_Cv)
+
+
+### Support
+
+This program is supported, in part, by public funds from the New York City Department of Cultural Affairs in partnership with the City Council. And by Babycastles members. Thank you.

@@ -116,3 +116,7 @@ If appropriate, address your application to the right person or group
 - When you are working on applications, you don't need to read and re-read these notes. Just revisit this if it's ever helpful to you. Allow these ideas to seep into your brain or serve as a reference.
 - Share your knowledge. Don't hoard opportunities. Dynamic forward motion and community is the key, and is our ultimate goal. Social and cultural capital is not the goal. I forbid you from using this information for that express purpose.
 
+
+### Support
+
+This program is supported, in part, by public funds from the New York City Department of Cultural Affairs in partnership with the City Council. And by Babycastles members. Thank you.

@@ -146,3 +146,7 @@ And that’s basically it! I hope this workshop gave you some ideas about what y
 
 *--Sabrina*
 ________
+
+### Support
+
+This program is supported, in part, by public funds from the New York City Department of Cultural Affairs in partnership with the City Council. And by Babycastles members. Thank you.

@@ -217,5 +217,6 @@ To create a label for your game, run your game and press ctrl-7 to grab a screen
 
 Put some comments at the top of your code for the title.
 
+### Support
 
-
+This program is supported, in part, by public funds from the New York City Department of Cultural Affairs in partnership with the City Council. And by Babycastles members. Thank you.

@@ -191,3 +191,8 @@ Video options:
 2. Also we need to add Audio out as well. Otherwise we'll only export the video with no audio. So in the MovieFileOut's "Audio CHOP" parameter, let's click and drag the AudioDevOut there. Since TD is all python expressions, we see the pointer to the name of that Audio CHOP.
 3. Click on the name of the parameter "File", and select the gray-white square all the way on the left. This is for a plain string value. (Otherwise the default is a Python expression.) You can click the + on the right too, to select where you want to save the file.
 4. Click "Record" to record it.
+
+
+### Support
+
+This program is supported, in part, by public funds from the New York City Department of Cultural Affairs in partnership with the City Council. And by Babycastles members. Thank you.

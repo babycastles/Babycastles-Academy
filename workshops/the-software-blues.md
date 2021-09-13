@@ -31,3 +31,8 @@ Join Tyler Etters as he shares strategies and tactics for navigating this messy 
  - Know this is not the end, but the beginning.
  - Unpleasant deadline. :)
  - Know your deployment pipeline ahead of time.
+
+
+### Support
+
+This program is supported, in part, by public funds from the New York City Department of Cultural Affairs in partnership with the City Council. And by Babycastles members. Thank you.

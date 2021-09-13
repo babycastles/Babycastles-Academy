@@ -1130,3 +1130,7 @@ Gore
 Misc**
 ```
 
+
+### Support
+
+This program is supported, in part, by public funds from the New York City Department of Cultural Affairs in partnership with the City Council. And by Babycastles members. Thank you.

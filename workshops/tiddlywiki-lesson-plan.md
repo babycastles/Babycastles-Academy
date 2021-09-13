@@ -210,3 +210,8 @@ font-weight: 300;
 ```
 
 We have just changed our site title and the titles of each tiddler to our new font family Space Mono :)
+
+
+### Support
+
+This program is supported, in part, by public funds from the New York City Department of Cultural Affairs in partnership with the City Council. And by Babycastles members. Thank you.
